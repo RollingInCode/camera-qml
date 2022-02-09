@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>disabled.png</file>
+        <file>beep.wav</file>
+        <file>cameraappCapture1.wav</file>
+        <file>button.wav</file>
+        <file>save.png</file>
+    </qresource>
+</RCC>
